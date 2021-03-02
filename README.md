@@ -2,12 +2,16 @@
 ### Hi there 👋
 
 ## About Me
-- <span style="display:flex; align-items:center;position:relative;top: 5px;"><img src="./statics/work.svg" style="width:20px;height:20px;margin-right:5px;">I'm a frontend engineer at <img src="./statics/company.svg" style="width:20px;height:20px;margin:0px 5px;">极客学院
+- <span style="display:flex; align-items:center;position:relative;top: 5px;"><img src="./statics/work.svg" width="20" height="20">I'm a frontend engineer at <img src="./statics/company.svg" width="20" height="20">极客学院
 </span>
-- <span style="display:flex; align-items:center;position:relative;top: 5px;"><img src="./statics/coding.svg" style="width:20px;height:20px;margin-right:5px;">I love coding, and familiar with <img src="./statics/js.svg" style="width:20px;height:20px;margin:0px 5px;"><img src="./statics/html.svg" style="width:20px;height:20px;margin-right:5px;"><img src="./statics/css.svg" style="width:20px;height:20px;margin-right:5px;"><img src="./statics/vue.svg" style="width:20px;height:20px;margin-right:5px;"><img src="./statics/react.svg" style="width:20px;height:20px;margin-right:5px;"><img src="./statics/微信小程序.svg" style="width:20px;height:20px;margin-right:5px;"><img src="./statics/node.svg" style="width:20px;height:20px;margin-right:5px;"><img src="./statics/less.svg" style="width:20px;height:20px;margin-right:5px;"></span>
--  <span style="display:flex; align-items:center;position:relative;top: 5px;"><img src="./statics/education.svg" style="width:20px;height:20px;margin-right:5px;">Master degree @ <img src="./statics/unsw.jpg" style="width:20px;height:20px;margin:0px 0px 0px 5px;">UNSW, and Bachelor degree @ <img src="./statics/zstu.jpg" style="width:20px;height:20px;margin:0px 5px;">ZSTU
+
+- <span style="display:flex; align-items:center;position:relative;top: 5px;"><img src="./statics/coding.svg" width="20" height="20">I love coding, and familiar with <img src="./statics/js.svg" width="20" height="20"><img src="./statics/html.svg" width="20" height="20"><img src="./statics/css.svg" width="20" height="20"><img src="./statics/vue.svg" width="20" height="20"><img src="./statics/react.svg" width="20" height="20"><img src="./statics/微信小程序.svg" width="20" height="20"><img src="./statics/node.svg" width="20" height="20"><img src="./statics/less.svg" width="20" height="20"></span>
+
+-  <span style="display:flex; align-items:center;position:relative;top: 5px;"><img src="./statics/education.svg" width="20" height="20">Master degree @ <img src="./statics/unsw.jpg" style="width:20px;height:20px;margin:0px 0px 0px 5px;">UNSW, and Bachelor degree @ <img src="./statics/zstu.jpg" width="20" height="20">ZSTU
 </span>
-- <span style="display:flex; align-items:center;position:relative;top: 5px;"><img src="./statics/experience.svg" style="width:20px;height:20px;margin-right:5px;">Experienced at <img src="./statics/web.svg" style="width:20px;height:20px;margin:0px 5px;">web, <img src="./statics/h5.svg" style="width:20px;height:20px;margin-right:5px;">h5, <img src="./statics/wechat.svg" style="width:20px;height:20px;margin-right:5px;">wechat miniprogram,<img src="./statics/web_anly.svg" style="width:20px;height:20px;margin-right:5px;">data visualization
+
+- <span style="display:flex; align-items:center;position:relative;top: 5px;"><img src="./statics/experience.svg" width="20" height="20">Experienced at <img src="./statics/web.svg" width="20" height="20">web, <img src="./statics/h5.svg" width="20" height="20">h5, <img src="./statics/wechat.svg" width="20" height="20">wechat miniprogram,<img src="./statics/web_anly.svg" width="20" height="20">data visualization
 </span>
-- <span style="display:flex; align-items:center;position:relative;top: 5px;"><img src="./statics/微服务.svg" style="width:20px;height:20px;margin-right:5px;">I also have some experiences at Microservices with nodejs<img src="./statics/node.svg" style="width:20px;height:20px;margin:0px 5px;">
+
+- <span style="display:flex; align-items:center;position:relative;top: 5px;"><img src="./statics/微服务.svg" width="20" height="20">I also have some experiences at Microservices with nodejs<img src="./statics/node.svg" width="20" height="20">
 </span>
