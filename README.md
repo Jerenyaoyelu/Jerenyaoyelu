@@ -1,5 +1,8 @@
-![](https://c-ssl.duitang.com/uploads/item/202006/22/20200622221138_lfeoc.thumb.1000_0.gif)
+<img align="center" src="https://c-ssl.duitang.com/uploads/item/202006/22/20200622221138_lfeoc.thumb.1000_0.gif" width="100%"></img>
 ### Hi there, I'm Jeren. Nice to meet you. 👋
+
+[![Twitter: YaoyeLu](https://img.shields.io/twitter/follow/yaoye_lu?style=social)](https://twitter.com/yaoye_lu)
+[![GitHub Jerenyaoyelu](https://img.shields.io/github/followers/Jerenyaoyelu?label=follow&style=social)](https://github.com/Jerenyaoyelu)
 
 ## About Me
 - <span><img src="./statics/work.svg" width="20" height="20"> I'm a frontend engineer at <img src="./statics/company.svg" width="20" height="20"> 极客学院
