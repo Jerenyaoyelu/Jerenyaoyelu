@@ -1,4 +1,4 @@
-<img align="center" src="./statics/leo.gif" width="100%"></img>
+<img align="center" src="./statics/leo_ce.gif" width="100%"></img>
 ### Hi there, I'm Jeren. Nice to meet you. 👋
 
 [![GitHub Jerenyaoyelu](https://img.shields.io/github/followers/Jerenyaoyelu?label=follow&style=social)](https://github.com/Jerenyaoyelu)
